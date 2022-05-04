@@ -55,7 +55,27 @@
   }
   #desktopNav .folder-child:before {
     color: rgba(0,0,0,0.7);
+
   }
+
+  #myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+/* Add some content at the bottom of the video/page */
+.content {
+  position: fixed;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+}
+
 </style><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
 <!-- End of Squarespace Headers -->
     <script>
@@ -312,13 +332,18 @@
             <!-- <div class="sqs-state-message error">There are no pages in this Index.</div> -->
   
 
+            <video autoplay muted loop id="myVideo">
+              <source src="https://github.com/MattJAshworth/MJAPresents/blob/69908c7db0c5f71bf67da040f11399b04655ae10/assets/img/DJI_0064.mp4" type="video/mp4">
+            </video>
+
   <div id="parallax-images">
     
     <div class="image-container content-fill first" data-url-id="home" data-content-field="main-image">
       
-        
+        <!--
         <img data-src="https://raw.githubusercontent.com/MattJAshworth/MJAPresents/e517a3ca4152f59b34861bc9b9ab6e8f9919cd81/assets/img/mjaset2.png" data-image="https://raw.githubusercontent.com/MattJAshworth/MJAPresents/e517a3ca4152f59b34861bc9b9ab6e8f9919cd81/assets/img/mjaset2.png" data-image-dimensions="2560x1354" data-image-focal-point="0.5,0.5" alt="MJA_Background.jpg"  class="loading" data-load="false" />
         <div class="image-overlay-wrapper"></div>
+        -->
         
       
     </div>
