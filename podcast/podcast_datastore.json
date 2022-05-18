@@ -1,0 +1,121 @@
+{
+    "podcastSets" : [
+        {
+            "title" : "A Breif Introduction",
+            "embed" : "<iframe width=\"100%\" height=\"120\" src=\"https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fericprydz%2Feric-prydz-presents-epic-radio-on-beats-1-ep17%2F\" frameborder=\"0\" ></iframe>",
+            "publishDate" : "18th May 2022",
+            "runtime": "48 mins",
+            "thumbailURL": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/4/4/1/6/8ea7-c935-409d-88f0-f3deb765a7b4",
+            "specialGuest1Name": "",
+            "specialGuest1URL": "",
+            "specialGuest2Name": "",
+            "specialGuest2URL": "",
+            "specialGuest3Name": "",
+            "specialGuest3URL": ""
+        },
+        {
+            "title" :"These Things Will Come To Be",
+            "embed" : "<iframe width=\"100%\" height=\"120\" src=\"https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fericprydz%2Feric-prydz-presents-epic-radio-on-beats-1-ep24%2F\" frameborder=\"0\" ></iframe>",
+            "publishDate" : "25th May 2022",
+            "runtime": "1hr 51 mins",
+            "thumbailURL": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/4/4/1/6/8ea7-c935-409d-88f0-f3deb765a7b4",
+            "specialGuest1Name": "Kieran Aspden",
+            "specialGuest1URL": "https://google.com",
+            "specialGuest2Name": "",
+            "specialGuest2URL": "",
+            "specialGuest3Name": "",
+            "specialGuest3URL": ""
+        },
+        {
+            "title" : "Me And The Open Road",
+            "embed" : "<iframe width=\"100%\" height=\"120\" src=\"https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fericprydz%2Feric-prydz-presents-epic-radio-on-beats-1-ep18%2F\" frameborder=\"0\" ></iframe>",
+            "publishDate" : "1st June 2022",
+            "runtime": "35 mins",
+            "thumbailURL": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/4/4/1/6/8ea7-c935-409d-88f0-f3deb765a7b4",
+            "specialGuest1Name": "Edward Towers",
+            "specialGuest1URL": "https://example.com",
+            "specialGuest2Name": "Jordan Bamber",
+            "specialGuest2URL": "https://example.com",
+            "specialGuest3Name": "",
+            "specialGuest3URL": ""
+        },
+        {
+            "title" : "The Modern State of Technology",
+            "embed" : "<iframe width=\"100%\" height=\"120\" src=\"https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fericprydz%2Feric-prydz-presents-epic-radio-on-beats-1-ep17%2F\" frameborder=\"0\" ></iframe>",
+            "publishDate" : "8th June 2022",
+            "runtime": "1hr 1 min",
+            "thumbailURL": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/4/4/1/6/8ea7-c935-409d-88f0-f3deb765a7b4",
+            "specialGuest1Name": "James Worthington",
+            "specialGuest1URL": "https://google.com",
+            "specialGuest2Name": "Jack Baldwin",
+            "specialGuest2URL": "https://test.com",
+            "specialGuest3Name": "",
+            "specialGuest3URL": ""
+        },
+        {
+            "title" :"What Makes An Engineer",
+            "embed" : "<iframe width=\"100%\" height=\"120\" src=\"https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fericprydz%2Feric-prydz-presents-epic-radio-on-beats-1-ep24%2F\" frameborder=\"0\" ></iframe>",
+            "publishDate" : "15th June 2022",
+            "runtime": "2hrs",
+            "thumbailURL": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/4/4/1/6/8ea7-c935-409d-88f0-f3deb765a7b4",
+            "specialGuest1Name": "Kieran Aspden",
+            "specialGuest1URL": "https://google.com",
+            "specialGuest2Name": "Jack Baldwin",
+            "specialGuest2URL": "https://test.com",
+            "specialGuest3Name": "",
+            "specialGuest3URL": ""
+        },
+        {
+            "title" : "Living a Park Life",
+            "embed" : "<iframe width=\"100%\" height=\"120\" src=\"https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fericprydz%2Feric-prydz-presents-epic-radio-on-beats-1-ep18%2F\" frameborder=\"0\" ></iframe>",
+            "publishDate" : "22nd June 2022",
+            "runtime": "45 mins",
+            "thumbailURL": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/4/4/1/6/8ea7-c935-409d-88f0-f3deb765a7b4",
+            "specialGuest1Name": "",
+            "specialGuest1URL": "",
+            "specialGuest2Name": "",
+            "specialGuest2URL": "",
+            "specialGuest3Name": "",
+            "specialGuest3URL": ""
+        },
+        {
+            "title" : "Hot Developer Summer",
+            "embed" : "<iframe width=\"100%\" height=\"120\" src=\"https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fericprydz%2Feric-prydz-presents-epic-radio-on-beats-1-ep17%2F\" frameborder=\"0\" ></iframe>",
+            "publishDate" : "29th June 2022",
+            "runtime": "30 mins",
+            "thumbailURL": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/4/4/1/6/8ea7-c935-409d-88f0-f3deb765a7b4",
+            "specialGuest1Name": "",
+            "specialGuest1URL": "",
+            "specialGuest2Name": "",
+            "specialGuest2URL": "",
+            "specialGuest3Name": "",
+            "specialGuest3URL": ""
+        },
+        {
+            "title" :"The Road to Dreamville",
+            "embed" : "<iframe width=\"100%\" height=\"120\" src=\"https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fericprydz%2Feric-prydz-presents-epic-radio-on-beats-1-ep24%2F\" frameborder=\"0\" ></iframe>",
+            "publishDate" : "6th July 2022",
+            "runtime": "58 mins",
+            "thumbailURL": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/4/4/1/6/8ea7-c935-409d-88f0-f3deb765a7b4",
+            "specialGuest1Name": "",
+            "specialGuest1URL": "",
+            "specialGuest2Name": "",
+            "specialGuest2URL": "",
+            "specialGuest3Name": "",
+            "specialGuest3URL": ""
+        },
+        {
+            "title" : "Live Today, Love Tomorrow, Unite Forever",
+            "embed" : "<iframe width=\"100%\" height=\"120\" src=\"https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fericprydz%2Feric-prydz-presents-epic-radio-on-beats-1-ep18%2F\" frameborder=\"0\" ></iframe>",
+            "publishDate" : "13th July 2022",
+            "runtime": "2hrs 10 mins",
+            "thumbailURL": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/4/4/1/6/8ea7-c935-409d-88f0-f3deb765a7b4",
+            "specialGuest1Name": "Jordan Bamber",
+            "specialGuest1URL": "https://example.com",
+            "specialGuest2Name": "Arran Parkinson",
+            "specialGuest2URL": "https://google.com",
+            "specialGuest3Name": "Becky Whelan",
+            "specialGuest3URL": "https://test.com"
+        }
+    ]
+}
